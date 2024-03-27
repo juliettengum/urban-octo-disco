@@ -1,0 +1,49 @@
+
+.blog-title {
+    background-color: yellow;
+    color: #333;
+}
+
+.blog-form h3 {
+    margin-top: 0;
+}
+
+form {
+    width: 100%; 
+    max-width: 400px; 
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    display: block; 
+    font-size: 12px;
+    margin-bottom: 10px; 
+    color: black;
+}
+
+input,
+textarea {
+    width: 100%; 
+    padding: 8px; 
+    margin-bottom: 15px; 
+    border: 1px solid #ccc;
+    border-radius: 5px; 
+    box-sizing: border-box; 
+}
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
